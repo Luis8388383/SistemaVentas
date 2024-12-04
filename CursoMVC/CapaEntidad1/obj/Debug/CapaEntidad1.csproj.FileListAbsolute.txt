@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CursoMVC\CapaEntidad1\bin\Debug\CapaEntidad1.dll
+C:\Users\User\source\repos\CursoMVC\CapaEntidad1\bin\Debug\CapaEntidad1.pdb
+C:\Users\User\source\repos\CursoMVC\CapaEntidad1\obj\Debug\CapaEntidad1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CursoMVC\CapaEntidad1\obj\Debug\CapaEntidad1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CursoMVC\CapaEntidad1\obj\Debug\CapaEntidad1.dll
+C:\Users\User\source\repos\CursoMVC\CapaEntidad1\obj\Debug\CapaEntidad1.pdb
